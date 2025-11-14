@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Pedro Ferreira!  
 
-## 🎯 Desenvolvedor Full Stack em formação | 📍 SENAI-BA | 3º semestre de Desenvolvimento de Sistemas  
+## 🎯 Desenvolvedor Web em formação | 📍 SENAI-BA | 4º semestre de Desenvolvimento de Sistemas  
 
 Atualmente, estou aprimorando minhas habilidades no desenvolvimento **front-end**, explorando **React** para tornar meus projetos mais dinâmicos e interativos. Tenho experiência com **back-end**, utilizando **Java** e **MySQL** para construção de sistemas CRUD eficientes.  
 
@@ -12,7 +12,6 @@ Estou sempre aberto a novos desafios e oportunidades para evoluir profissionalme
 
 ## 📚 O que estou aprendendo no momento:  
 🔹 **React** e conceitos de **arquitetura de sistemas**  
-🔹 Práticas de **segurança da informação**  
 🔹 **Aprimoramento no desenvolvimento full stack**  
 
 ---
